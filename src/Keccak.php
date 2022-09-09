@@ -1,6 +1,6 @@
 <?php
 
-namespace kornrunner;
+namespace interchained;
 
 use Exception;
 use function mb_strlen;
